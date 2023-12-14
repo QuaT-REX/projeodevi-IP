@@ -1,0 +1,11 @@
+C:\Users\baran\Desktop\İP-VizeProje\SoruCevapPortalı\SoruCevapPortalı_Model\bin\Debug\net7.0\SoruCevapPortalı_Model.deps.json
+C:\Users\baran\Desktop\İP-VizeProje\SoruCevapPortalı\SoruCevapPortalı_Model\bin\Debug\net7.0\SoruCevapPortalı_Model.dll
+C:\Users\baran\Desktop\İP-VizeProje\SoruCevapPortalı\SoruCevapPortalı_Model\bin\Debug\net7.0\SoruCevapPortalı_Model.pdb
+C:\Users\baran\Desktop\İP-VizeProje\SoruCevapPortalı\SoruCevapPortalı_Model\obj\Debug\net7.0\SoruCevapPortalı_Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baran\Desktop\İP-VizeProje\SoruCevapPortalı\SoruCevapPortalı_Model\obj\Debug\net7.0\SoruCevapPortalı_Model.AssemblyInfoInputs.cache
+C:\Users\baran\Desktop\İP-VizeProje\SoruCevapPortalı\SoruCevapPortalı_Model\obj\Debug\net7.0\SoruCevapPortalı_Model.AssemblyInfo.cs
+C:\Users\baran\Desktop\İP-VizeProje\SoruCevapPortalı\SoruCevapPortalı_Model\obj\Debug\net7.0\SoruCevapPortalı_Model.csproj.CoreCompileInputs.cache
+C:\Users\baran\Desktop\İP-VizeProje\SoruCevapPortalı\SoruCevapPortalı_Model\obj\Debug\net7.0\SoruCevapPortalı_Model.dll
+C:\Users\baran\Desktop\İP-VizeProje\SoruCevapPortalı\SoruCevapPortalı_Model\obj\Debug\net7.0\refint\SoruCevapPortalı_Model.dll
+C:\Users\baran\Desktop\İP-VizeProje\SoruCevapPortalı\SoruCevapPortalı_Model\obj\Debug\net7.0\SoruCevapPortalı_Model.pdb
+C:\Users\baran\Desktop\İP-VizeProje\SoruCevapPortalı\SoruCevapPortalı_Model\obj\Debug\net7.0\ref\SoruCevapPortalı_Model.dll

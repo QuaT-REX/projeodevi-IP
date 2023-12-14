@@ -1,0 +1,17 @@
+C:\Users\baran\Desktop\İP-VizeProje\SoruCevapPortalı\SoruCevapPortalı_DataAccess\bin\Debug\net7.0\SoruCevapPortalı_DataAccess.deps.json
+C:\Users\baran\Desktop\İP-VizeProje\SoruCevapPortalı\SoruCevapPortalı_DataAccess\bin\Debug\net7.0\SoruCevapPortalı_DataAccess.dll
+C:\Users\baran\Desktop\İP-VizeProje\SoruCevapPortalı\SoruCevapPortalı_DataAccess\bin\Debug\net7.0\SoruCevapPortalı_DataAccess.pdb
+C:\Users\baran\Desktop\İP-VizeProje\SoruCevapPortalı\SoruCevapPortalı_DataAccess\bin\Debug\net7.0\SoruCevapPortalı_Model.dll
+C:\Users\baran\Desktop\İP-VizeProje\SoruCevapPortalı\SoruCevapPortalı_DataAccess\bin\Debug\net7.0\SoruCevapPortalı_Model.pdb
+C:\Users\baran\Desktop\İP-VizeProje\SoruCevapPortalı\SoruCevapPortalı_DataAccess\obj\Debug\net7.0\SoruCevapPortalı_DataAccess.csproj.AssemblyReference.cache
+C:\Users\baran\Desktop\İP-VizeProje\SoruCevapPortalı\SoruCevapPortalı_DataAccess\obj\Debug\net7.0\SoruCevapPortalı_DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baran\Desktop\İP-VizeProje\SoruCevapPortalı\SoruCevapPortalı_DataAccess\obj\Debug\net7.0\SoruCevapPortalı_DataAccess.AssemblyInfoInputs.cache
+C:\Users\baran\Desktop\İP-VizeProje\SoruCevapPortalı\SoruCevapPortalı_DataAccess\obj\Debug\net7.0\SoruCevapPortalı_DataAccess.AssemblyInfo.cs
+C:\Users\baran\Desktop\İP-VizeProje\SoruCevapPortalı\SoruCevapPortalı_DataAccess\obj\Debug\net7.0\SoruCevapPortalı_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\baran\Desktop\İP-VizeProje\SoruCevapPortalı\SoruCevapPortalı_DataAccess\obj\Debug\net7.0\SoruCevapPortalı_DataAccess.csproj.CopyComplete
+C:\Users\baran\Desktop\İP-VizeProje\SoruCevapPortalı\SoruCevapPortalı_DataAccess\obj\Debug\net7.0\SoruCevapPortalı_DataAccess.dll
+C:\Users\baran\Desktop\İP-VizeProje\SoruCevapPortalı\SoruCevapPortalı_DataAccess\obj\Debug\net7.0\refint\SoruCevapPortalı_DataAccess.dll
+C:\Users\baran\Desktop\İP-VizeProje\SoruCevapPortalı\SoruCevapPortalı_DataAccess\obj\Debug\net7.0\SoruCevapPortalı_DataAccess.pdb
+C:\Users\baran\Desktop\İP-VizeProje\SoruCevapPortalı\SoruCevapPortalı_DataAccess\obj\Debug\net7.0\ref\SoruCevapPortalı_DataAccess.dll
+C:\Users\baran\Desktop\İP-VizeProje\SoruCevapPortalı\SoruCevapPortalı_DataAccess\bin\Debug\net7.0\SoruCevapPortalı_DataAccess.runtimeconfig.json
+C:\Users\baran\Desktop\İP-VizeProje\SoruCevapPortalı\SoruCevapPortalı_DataAccess\obj\Debug\net7.0\SoruCevapPortalı_DataAccess.genruntimeconfig.cache
